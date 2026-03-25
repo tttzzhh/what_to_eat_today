@@ -9,7 +9,7 @@ choose what to eat today randomly
 🔄 趣味的滚动动画效果
 📱 手机电脑都能用
 🚀 在线体验
-点击访问：[你的 GitHub Pages 链接]
+点击访问：https://tttzzhh.github.io/what_to_eat_today/what_to_eat
 
 🎮 使用方法
 点击"开始选择"按钮
